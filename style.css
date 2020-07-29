@@ -1,0 +1,23 @@
+body{
+  color:white;
+  text-align:center;
+}
+
+button [id="1"]{
+  text-color:white;
+  background-color:lemon green;
+}
+
+button [id="2"]{
+  text-color:white;
+  background-color:yellow;
+}
+
+button [id="3"]{
+  text-color:white;
+  background-color:sky blue;
+}
+
+body{
+  background-color:pink;
+}
